@@ -1,6 +1,7 @@
 #pragma once
 #include <Windows.h>
 #include <pdh.h>
+#include <pdhmsg.h>
 
 namespace nf {
 

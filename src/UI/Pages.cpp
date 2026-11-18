@@ -1,5 +1,7 @@
 #include "UI/MainWindow.h"
 #include "UI/Theme.h"
+#include "Settings/Settings.h"
+#include <shellapi.h>
 #include <ShlObj.h>
 #include <algorithm>
 #include <cmath>
