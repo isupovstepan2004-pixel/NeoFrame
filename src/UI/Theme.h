@@ -18,8 +18,11 @@ inline constexpr auto kAccent    = Rgb(0x60A5FA);
 inline constexpr auto kAccent2   = Rgb(0x8B9CF6);
 inline constexpr auto kText      = Rgb(0xF5F5F5);
 inline constexpr auto kText2     = Rgb(0xA1A1AA);
+inline constexpr auto kOnAccent  = Rgb(0x0B1220);
+inline constexpr auto kDanger    = Rgb(0xF87171);
+inline constexpr auto kTrackOff  = Rgb(0x3B3B3B);
 
-inline constexpr float kRadius = 12.0f;  // card corner radius (DIP)
+inline constexpr float kRadius = 12.0f;
 inline constexpr float kSidebarW = 220.0f;
 inline constexpr float kPad = 32.0f;
 inline constexpr float kGap = 16.0f;
